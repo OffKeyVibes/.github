@@ -1,6 +1,6 @@
 # OffKeyVibes
 
-![OffKeyVibes Banner](https://raw.githubusercontent.com/OffKeyVibes/offkeyvibes-brand-assets/main/banners/wide/offkeyvibes-banner-wide-final.jpg)
+![OffKeyVibes Banner](https://raw.githubusercontent.com/OffKeyVibes/offkeyvibes-brand-assets/main/banners/wide/offkeyvibes-banner-x-final.png)
 
 Original music, lyrics, audio archives, and branding by OffKeyVibes.
 
